@@ -9,8 +9,6 @@ import Button from './Button';
 import Loader from 'react-loader-spinner';
 import 'react-loader-spinner/dist/loader/css/react-spinner-loader.css';
 
-import './styles.css';
-
 import pixabayApi from '../services/pixabayApi';
 
 export default class App extends Component {
